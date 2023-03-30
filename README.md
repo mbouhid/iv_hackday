@@ -44,7 +44,7 @@ A empresa suspendeu ações estratégicas críticas como:
   - Reforma das unidades com obras já programadas
   - Ações de marketing direcionadas
 
-## Target
+### Target
 
 - Desenvolver um modelo de previsão de cancelamento
 - Identificar o público com menor incidência de cancelamento e reverter o cenário
@@ -126,7 +126,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [XGBoost](https://xgboost.readthedocs.io/en/stable/)
 
 
-# Next Steps
+## Next Steps
 
 + Coletar dados de outras fontes (webscrapping)
 + Treinar o modelo incluindo os novos dados coletados
@@ -134,7 +134,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-# References
+## References
 
 [Kaggle](https://www.kaggle.com/competitions/cdshackdays4)
 
@@ -143,16 +143,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [Métrica F1-Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
 
 
-# Autor
+## Autor
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41192466?v=4" width="100px;" alt=""/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MarcioBouhid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciobouhid/)](https://www.linkedin.com/in/marciobouhid/) 
 
 
-# Team
-
-Marcio Bouhid
+## Team
 
 - **André Luis** (Minas Gerais-BR) 
 - **Marcio Bouhid** (Braga-Portugal) (https://www.linkedin.com/in/marciobouhid/)
